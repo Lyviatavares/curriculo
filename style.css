@@ -61,7 +61,7 @@ p{
     width: 280px; /* largura */
     height: 100vh; /* altura - view height -> altura do navegador*/
     background-color: #3e263e;
-    text-align: center;
+    text-align:center;
     
     display: flex;
     flex-direction: column;
