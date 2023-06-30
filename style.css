@@ -123,6 +123,19 @@ p{
     margin-right: 16px;
 }
 
+
+  article {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(230, 199, 215);
+    flex: 200px;
+  }
+
+  section{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
 /* se o usuário estiver em uma tela de até 860px */
 @media(max-width: 860px){
 
